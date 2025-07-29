@@ -6,7 +6,7 @@ This repository contains lab assignments for the Artificial Intelligence & Artif
 
 ## ✅ Completed Assignments
 
-- [Lab 1 - Introduction to AI & ANN](AI_ANN_Lab1/Assignment_1_AI_ANN.pdf)
+- [Lab 1 - A* and GBFS](./Assignment_1_ANN.py)
 
 More labs will be added as the course progresses.
 
@@ -15,10 +15,6 @@ More labs will be added as the course progresses.
 ## 📌 Tools Used
 - Python
 - Jupyter Notebook
-- NumPy
-- pandas
-- matplotlib
-- TensorFlow / PyTorch (as needed)
 
 ---
 
