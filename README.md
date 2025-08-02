@@ -7,6 +7,12 @@ This repository contains lab assignments for the Artificial Intelligence & Artif
 ## ✅ Completed Assignments
 
 - [Lab 1 - A* and GBFS](./Assignment_1_ANN.py)
+-  [Lab 2 - Sudoku](./Assignment_1_ANN.py)
+-  [Lab 2 - A* and GBFS](./Assignment_1_ANN.py)
+
+-  [Lab 3 - ](./Assignment_1_ANN.py)
+
+
 
 More labs will be added as the course progresses.
 
