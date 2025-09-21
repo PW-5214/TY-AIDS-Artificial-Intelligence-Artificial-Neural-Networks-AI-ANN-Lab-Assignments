@@ -33,3 +33,4 @@ while new_inference:
 print(f"\nInference result for {name.title()}:")
 for fact in sorted(facts):
     print(f"{name.title()}({fact.title()})")
+
