@@ -11,6 +11,8 @@ This repository contains lab assignments for the Artificial Intelligence & Artif
 -  [Lab 3 - First Order Logic(medical)](./Assigment_no_3.py)
 -  [Lab 4 - KB(FOL) and Propositional logic(medical dignosis)](./Assignment_no_4.py)
 -  [Lab 5 - Linear Regression using BGD, SGD, and MBGD.](./Assignment_no_5.py)
+-  [Lab 6 - MNIST Image recoginition using ANN.](./Assignment_no_6.py)
+-  [Lab 9 - CIFAR-10 dataset object detection using CNN](./Assignment_no_9.py)
 
 More labs will be added as the course progresses.
 
